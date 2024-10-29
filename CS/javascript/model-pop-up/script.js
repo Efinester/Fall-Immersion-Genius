@@ -4,6 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
      const closeButten = document.getElementById("closeButten");
     openModalButton.addEventListener("click", (event) => {
         modal.style.display = "block";
-        if (event.target == nothing){
+        if (event.target == modal variable){
+             openModalButton.addEventListener("click", (nothing) => {
 
         }
